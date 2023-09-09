@@ -26,7 +26,7 @@ Aspectos Humanos
 
 - **Falta de Acreditar**: Pessoas que perdeu metade da vida e já entregam a partida
 
-- 
+- **Erros de iniciante**: Você treina um combo simple e quando vai executar na prática não sabe o que fazer quando o adversário denfende (geralmente é voltar para posição de neutro o mais rápido o possível) e toma uma punição do adversário.
 
 https://medium.com/@nicovalentim/fundamentos-de-jogos-de-luta-2d-parte-dois-golpes-607916643c0d
 
