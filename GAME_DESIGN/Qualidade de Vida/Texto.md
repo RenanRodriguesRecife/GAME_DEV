@@ -22,4 +22,5 @@ Jogos Longos:
 
 - (Principalmente RPG) - um sistema que ajude o player a relembra oque aconteceu anteriormente na história quando ele passa muito tempo sem jogar é sempre bem vido.
 
+- Avisar ao jogador quando ele estiver progredindo na história quando ele pode perde algum conteúdo se avançar demais na quest principal.
 
