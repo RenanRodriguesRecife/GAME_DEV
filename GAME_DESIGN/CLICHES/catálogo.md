@@ -80,6 +80,7 @@ O problema do clichê é não acrescenta nada na vida de ninguém, ele deixa tud
 21. História tipo Robocop.
 22. O herói sempre tem um mentor fodástico que ensina tudo o que ele precisa saber sobre sua nova vida
 23. o vilão sempre mata o cientista ou médico que o diagnostica com super poderes
+
 24. (terror) A mocinha cai quando foge
 25. (terror) O vilão acorda enquanto parece que está morto
 26. (terror) Os assassinos adoram matar as vítimas enquanto transam com os namorados.
@@ -89,16 +90,16 @@ O problema do clichê é não acrescenta nada na vida de ninguém, ele deixa tud
 30. (terror) Carros que está com problemas mecânicos enquanto o mocinho tenta fugir.
 31. (terror) Minoria é o primeiro a morrer (negro, gay, hispânico)
 32. (terror) A mocinha inocente é a última que sobrevive
-(terror) O vilão nunca morre em filme de terror (quando vocÊ pensa por um segundo que matou o vilão esqueça)
-(terror) Dizer que o filme foi baseado em fatos reais, ou que o filme foi encontrado em uma fita na floresta.
-(terror) Os vilões nunca correm e conseguem chegar na vítima q ta correndo mais q um velociraptor
-(terror) quem tá sendo atormentado pelo capeta e a pessoa DEIXA TODAS AS LUZES DA CASA DESLIGADA, SUPER NORMAL?
-(terror) Pq pessoas que se odeiam na escola, vão acampar ou viajar juntos.?
-(terror) Sempre tem um sujeito esquisito, meio louco que aconselha o grupo a desistir e voltar pra casa mas ninguém dá bola pra ele.?
-(terror) Uma porta se abriu? Entre por ela e grite: Olá, tem alguém aí? Mesmo que seja um porão escuro ou uma casa estranha na qual você nunca esteve antes!
-(terror) Se o lugar é deserto, pare, vá checar e ver se encontra qualquer coisa pra se ferrar!
-(terror) Se você estiver em uma estrada deserta e de repente encontra um posto de gasolina abandonado e lá tem um velho mascando fumo de corda, com os dentes podres, sujo e sarcástico mandando você seguir em tal direção, faça o que ele disser!
-(terror) Se você chamar por alguém e não obter respostas ou ouvir um barulho lá fora, vá verificar o perímetro, mesmo que você esteja bem seguro dentro de um local fechado, saia e deixe alguém te matar!
+33. (terror) O vilão nunca morre em filme de terror (quando você pensa por um segundo que matou o vilão esqueça)
+34. (terror) Dizer que o filme foi baseado em fatos reais, ou que o filme foi encontrado em uma fita na floresta.
+35. (terror) Os vilões nunca correm e conseguem chegar na vítima q ta correndo mais q um velociraptor
+36. (terror) quem tá sendo atormentado pelo capeta e a pessoa DEIXA TODAS AS LUZES DA CASA DESLIGADA, SUPER NORMAL?
+37. (terror) Pq pessoas que se odeiam na escola, vão acampar ou viajar juntos.?
+38. (terror) Sempre tem um sujeito esquisito, meio louco que aconselha o grupo a desistir e voltar pra casa mas ninguém dá bola pra ele.?
+39. (terror) Uma porta se abriu? Entre por ela e grite: Olá, tem alguém aí? Mesmo que seja um porão escuro ou uma casa estranha na qual você nunca esteve antes!
+40. (terror) Se o lugar é deserto, pare, vá checar e ver se encontra qualquer coisa pra se ferrar!
+41. (terror) Se você estiver em uma estrada deserta e de repente encontra um posto de gasolina abandonado e lá tem um velho mascando fumo de corda, com os dentes podres, sujo e sarcástico mandando você seguir em tal direção, faça o que ele disser!
+42. (terror) Se você chamar por alguém e não obter respostas ou ouvir um barulho lá fora, vá verificar o perímetro, mesmo que você esteja bem seguro dentro de um local fechado, saia e deixe alguém te matar!
 (terror) Quando alguém disser: Vamos embora daqui! Diga que precisam voltar e ajudar, mesmo que o inimigo seja um bando de canibais famintos!
 (terror) Se você estiver com seus amigos e de repente ouvi algo estranho, vá verificar, fique pra trás e se perca!
 (terror) Se alguém avisar a você sobre os perigos reais do local, não dê ouvidos!
